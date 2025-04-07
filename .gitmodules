@@ -4,3 +4,6 @@
 [submodule "ReactApplication"]
 	path = ReactApplication
 	url = https://github.com/JUANITACABALLEROV/MyGoalApplication
+[submodule "Python3Application"]
+	path = Python3Application
+	url = https://github.com/JUANITACABALLEROV/Traces-driven-goals-analysis
