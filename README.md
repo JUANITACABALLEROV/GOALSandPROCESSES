@@ -10,6 +10,8 @@ Legal requirements are dynamic, often seem ambiguous, and rely on legal knowledg
 
 The formalizations of the approach can be found in the Supplementary Material folder (formalizations.pdf) in the document High-Level Requirements-Driven Business Process Compliance.
 
+Moreover, this folder also contains additional goal models, process models, mapping, and requirements files.
+
 ## Prototype
 
 As  Git subtrees, the Python3 and the React Beta prototypes can be found.
