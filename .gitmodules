@@ -1,0 +1,6 @@
+[submodule "carpeta"]
+	path = carpeta
+	url = https://github.com/JUANITACABALLEROV/Traces-driven-goals-analysis
+[submodule "ReactApplication"]
+	path = ReactApplication
+	url = https://github.com/JUANITACABALLEROV/MyGoalApplication
